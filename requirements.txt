@@ -1,0 +1,15 @@
+catboost==1.2.10
+ipython==9.17.1
+lightgbm==4.7.0
+matplotlib==3.11.0
+matplotx==0.3.10
+numpy==2.4.6
+optuna==5.0.0
+pandas==3.0.5
+plotly==7.1.0
+scikit-learn==1.9.0
+scipy==1.18.1
+seaborn==0.13.2
+umap-learn==0.5.12
+wandb==0.31.0
+xgboost==3.4.1
